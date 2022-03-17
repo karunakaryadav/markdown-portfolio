@@ -1,2 +1,1 @@
-Write out of some of your awesome attributes,and use emphasis keywords,programming languages,or skills
-I like to CODE and I like  to alive stream and if i am COADING on a live stream then i am live COADING
+I like to **CODE** and I like  to _live stream_ and if i am _COADING_ on a*live stream* then i am _*live COADING
