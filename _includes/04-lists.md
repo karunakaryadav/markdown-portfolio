@@ -5,7 +5,7 @@ a list of your favorite things.
 - 🐃
 - 🐚
 -    💯
-* 🔪
+** 🔪
 
 In order, there are my favorite of games:
  1. Cricket
