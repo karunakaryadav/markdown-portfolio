@@ -12,3 +12,7 @@ In order, there are my favorite of games:
  2. Vollyball
  3. football
  4. Kabaddi
+
+Here is a checklist for things i need to go today:
+- [] Record this video
+- [] Edit this video
