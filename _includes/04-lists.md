@@ -1,11 +1,11 @@
 a list of your favorite things.
-- 🐱
-- 🐶
-- 💻
-- 🐃
-- 🐚
--    💯
-** 🔪
+* 🐱
+   * 🐶
+   * 💻
+*  🐃 
+*  * Hobbies
+     * 💯
+      * 🔪
 
 In order, there are my favorite of games:
  1. Cricket
